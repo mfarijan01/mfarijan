@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627607838125",
+    "project_id": "mfarijan-c8d61",
+    "storage_bucket": "mfarijan-c8d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627607838125:android:db583368f81c19a3e8d524",
+        "android_client_info": {
+          "package_name": "com.example.mfarijan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627607838125-ep93uap9nm904pja84si5aad4p1n2vs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mfarijan",
+            "certificate_hash": "0dac173f1f12cf317be88bc3ff312844d734fe10"
+          }
+        },
+        {
+          "client_id": "627607838125-i8g37dvk1vnf6ot51ptddqb8q1df0ahg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFcH3XEZnRG_GSaOLIKAwcbPAXcxp49SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627607838125-i8g37dvk1vnf6ot51ptddqb8q1df0ahg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
